@@ -1,0 +1,49 @@
+*,
+*::after,
+*::before,
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.navbar-nav .nav-link {
+    color: lightgray;
+    font-size: 12px;
+    /* Imposta il colore del testo su bianco */
+}
+
+svg,
+h1,
+p,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: white;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 30px;
+}
+.btn{
+    border-radius: 0%;
+    font-size: 12px;
+}
+.dropdown-item{
+    font-size: 12px;
+    padding-right: 0px;
+}
+
+.card{
+    border-radius: 0%;
+}
+
+footer svg{
+    padding-right: 2px;
+}
+
